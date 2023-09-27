@@ -1,17 +1,18 @@
- import { Helmet } from 'react-helmet'
+ 
 
-import { TestDiv } from './styled'
+// import { TestDiv } from './styled'
 
 const HomePage: React.FC = () => {
 
     return  <>
-     <Helmet>
+     {/* <Helmet>
         <title>Главная страница </title>
-     </Helmet>
+        
+     </Helmet> */}
      
-     <TestDiv/>
+   <h1>Главная старонка</h1>    
     
-    <h1>232323</h1>
+     {/* <TestDiv /> */}
     </>  
    
    
