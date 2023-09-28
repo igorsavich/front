@@ -1,6 +1,6 @@
 # front
 
-# H1 Title
+#  Title
 
 `
 What is Lorem Ipsum?
